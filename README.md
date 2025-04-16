@@ -6,7 +6,7 @@
 ### 🧠 About Me
 
 - 🔭 I build clean, intuitive mobile apps that bring ideas to life — from concept to code.
-- 🌱 Always learning something new.
+- 🌱 Constantly exploring new tools, trends, and tech.
 - 📱 Skilled in **Flutter** – mobile magic is my thing!
 - 📖 Always got a novel in hand (recommend me one maybe?)
 - 📫 Reach me at: **[hetvis06@gmail.com](mailto:hetvis06@gmail.com)**
