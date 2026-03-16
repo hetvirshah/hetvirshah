@@ -8,7 +8,7 @@
 I build clean, scalable applications with a focus on performance and usability.  
 My primary focus is **Flutter for mobile development**, but I also work with **React for web interfaces**.
 
-I enjoy working across the full development cycle — from shaping the UI to integrating APIs and optimizing performance.
+I enjoy working across the full development cycle, from shaping the UI to integrating APIs and optimizing performance.
 
 Outside of development, I spend a lot of time reading novels and exploring new technologies.
 
