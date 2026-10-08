@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hetvi 👋</h1>
+<h1 align="center">Hi, I'm Hetvi </h1>
 <h3 align="center">Software Developer | Flutter · React · AWS</h3>
 
 <p align="center">
